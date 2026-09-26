@@ -1,56 +1,57 @@
+# Python Zero to Hero Course
 Welcome to the "From Zero to Hero" Python course repository! This repository contains all the materials and resources you need to follow along with the course and master Python programming from scratch to an advanced level.
 
-Course Overview
+* Course Overview *
 The "From Zero to Hero" Python course is designed to take you from a complete beginner to a proficient Python programmer. Whether you're new to programming or have some experience in other languages, this course will provide you with a solid foundation in Python programming concepts, syntax, and best practices.
 
-Course Curriculum
+* Course Curriculum *
 The curriculum of the course covers the following topics:
 
-Introduction to Python
+## Introduction to Python
 
-Overview of Python
-Setting up your development environment
-Basic syntax and data types
-Control Flow
+### Overview of Python
+### Setting up your development environment
+### Basic syntax and data types
+### Control Flow
 
-Conditional statements
-Loops
-Exception handling
-Data Structures
+## Conditional statements
+### Loops
+### Exception handling
+### 3Data Structures
 
-Lists, tuples, and dictionaries
-Sets
-Strings manipulation
-Functions
-
-Defining functions
-Lambda functions
-Recursion
-Object-Oriented Programming
-
-Classes and objects
-Inheritance and polymorphism
-Encapsulation
-File Handling
-
-Reading from and writing to files
-Working with CSV and JSON files
-Modules and Packages
-
-Importing modules
-Creating and using packages
-Exploring standard library modules
-Advanced Topics
-
-Decorators
-Generators and iterators
-Regular expressions
-Introduction to Web Development with Flask
-
-Setting up Flask
-Building web applications
-RESTful APIs
-Project Development
+## Lists, tuples, and dictionaries
+### Sets
+### Strings manipulation
+### Functions
+ 
+### Defining functions
+### Lambda functions
+### Recursion
+### Object-Oriented Programming
+ 
+## Classes and objects
+### Inheritance and polymorphism
+### Encapsulation
+### File Handling
+ 
+## Reading from and writing to files
+### Working with CSV and JSON files
+### Modules and Packages
+ 
+## Importing modules
+### Creating and using packages
+### Exploring standard library modules
+### Advanced Topics
+ 
+## Decorators
+### Generators and iterators
+### Regular expressions
+### Introduction to Web Development with Flask
+ 
+## Setting up Flask
+### Building web applications
+### RESTful APIs
+### Project Development
 
 Applying the learned concepts to build real-world projects
 Enhancing problem-solving skills
