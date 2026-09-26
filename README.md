@@ -1,10 +1,10 @@
 # Python Zero to Hero Course
 Welcome to the "From Zero to Hero" Python course repository! This repository contains all the materials and resources you need to follow along with the course and master Python programming from scratch to an advanced level.
 
-* Course Overview *
+**Course Overview**
 The "From Zero to Hero" Python course is designed to take you from a complete beginner to a proficient Python programmer. Whether you're new to programming or have some experience in other languages, this course will provide you with a solid foundation in Python programming concepts, syntax, and best practices.
 
-* Course Curriculum *
+**Course Curriculum**
 The curriculum of the course covers the following topics:
 
 ## Introduction to Python
@@ -58,18 +58,18 @@ Enhancing problem-solving skills
 How to Use This Repository
 Code Examples: The code_examples/ directory contains all the code examples demonstrated throughout the course. You can refer to these examples to understand the concepts better and experiment with the code.
 
-Projects: The projects/ directory contains project templates and resources for the hands-on projects assigned during the course. These projects are designed to reinforce your understanding of Python concepts and encourage practical application.
+**Projects:** The projects/ directory contains project templates and resources for the hands-on projects assigned during the course. These projects are designed to reinforce your understanding of Python concepts and encourage practical application.
 
-Resources: The resources/ directory includes supplementary materials such as PDFs, cheat sheets, and links to external resources that complement the course content.
+**Resources:** The resources/ directory includes supplementary materials such as PDFs, cheat sheets, and links to external resources that complement the course content.
 
-Assignments: The assignments/ directory contains assignments given as part of the course. Completing these assignments will help you assess your understanding of the topics covered and reinforce your learning.
+**Assignments:** The assignments/ directory contains assignments given as part of the course. Completing these assignments will help you assess your understanding of the topics covered and reinforce your learning.
 
-Additional Resources
+**__Additional Resources__**
 External Links: We provide links to external resources such as documentation, articles, and tutorials to supplement your learning experience.
 
-Community: Join our community forums or Discord server to connect with fellow learners, ask questions, and collaborate on projects.
+**Community:** Join our community forums or Discord server to connect with fellow learners, ask questions, and collaborate on projects.
 
-Getting Started
+**Getting Started**
 To get started with the course:
 
 Clone this repository to your local machine.
@@ -80,4 +80,4 @@ We welcome feedback on the course content, materials, and any issues you encount
 
 Happy coding, and enjoy your journey from zero to hero in Python!
 
-Note: This README is subject to updates as the course content evolves. Be sure to check back regularly for new materials and announcements.
+**Note:** This README is subject to updates as the course content evolves. Be sure to check back regularly for new materials and announcements.
